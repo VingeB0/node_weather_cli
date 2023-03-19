@@ -1,0 +1,24 @@
+{
+  "name": "weather_cli",
+  "version": "1.0.0",
+  "description": "getting weather",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VingeB0/node_weather_cli.git"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Volodymyr Davii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VingeB0/node_weather_cli/issues"
+  },
+  "homepage": "https://github.com/VingeB0/node_weather_cli#readme"
+}
